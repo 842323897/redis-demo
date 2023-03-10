@@ -1,0 +1,6 @@
+com\example\redis\service\RandomGiftService.class
+com\example\redis\entity\RandomGiftUser.class
+com\example\redis\config\RedisConfig.class
+com\example\redis\controller\RandomGiftController.class
+com\example\redis\RedisDemoApplication.class
+com\example\redis\service\impl\RandomGiftServiceImpl.class
